@@ -1,0 +1,19 @@
+img {
+    text-align: center;
+    width: 20%;
+    height:300px;
+    border-radius: 50%;
+    overflow: hidden;
+    margin-left: 40%;
+}
+.div-texto{
+    height: 250px;
+    width: 40%;
+    margin-left: 30%;
+}
+.div-texto h1 {
+    text-align: center;
+}
+.div-texto button {
+    text-align: center;
+}
